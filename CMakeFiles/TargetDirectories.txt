@@ -1,0 +1,1 @@
+/home/pi/coding_cpp_pi/my_Project_0.10/CMakeFiles/my_Project_0_10.dir
